@@ -1,6 +1,6 @@
 # IEMS308_hw3
 
-IEMS308_HW3.ipynb - jupyter notebook that contains source code for classifier
+text_classifier.ipynb - jupyter notebook that contains source code for classifier
 
 extacted_entities.zip - contains 3 text files with extracted entities
 
