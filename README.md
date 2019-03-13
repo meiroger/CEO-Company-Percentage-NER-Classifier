@@ -1,6 +1,6 @@
 # IEMS308_hw3
 
-NER_classifier.ipynb - jupyter notebook that contains source code for classifier
+NER_classifier.ipynb - jupyter notebook that contains source code for classifier and detailed explanations
 
 model.pdf - document specifying a list of the features used, process taken, selected classification model, and performance of model
 
